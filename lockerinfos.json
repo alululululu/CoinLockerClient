@@ -1,0 +1,37 @@
+{
+    "list" : [
+        {
+            "id" : 1000,
+            "name" : "大阪梅田[阪急][北改札口]",
+            "addr": "茶屋町xxxx",
+            "s_rest": 11,
+            "s_total": 20,
+            "m_rest": 4,
+            "m_total": 20,
+            "l_rest": 5,
+            "l_total": 20
+        },
+        {
+            "id" : 1001,
+            "name" : "吹田[JR]",
+            "addr": "xxxxxxxxx",
+            "s_rest": 3,
+            "s_total": 20,
+            "m_rest": 14,
+            "m_total": 20,
+            "l_rest": 10,
+            "l_total": 30
+        },
+        {
+            "id" : 1002,
+            "name" : "なんば",
+            "addr": "xxxxxxxxxxxxxxxxxxx",
+            "s_rest": 3,
+            "s_total": 20,
+            "m_rest": 14,
+            "m_total": 20,
+            "l_rest": 10,
+            "l_total": 30
+        },
+    ]
+}
